@@ -17,12 +17,12 @@ class Gerente extends Funcionario {
 }
 
 /*
-1. Sim, o método funciona sem erros
-porque $salario é protected.
+1. Sim o método funciona sem erros
+porque $salario é protected
 
 2. Não seria possível acessar $senhaAcesso dentro de gerente
-porque ela é private.
+porque ela é private
 
-3. Não, se diretor não estendesse funcionario, não teria acesso
+3. Não se diretor não estendesse funcionario, não teria acesso
 a $salario
 */

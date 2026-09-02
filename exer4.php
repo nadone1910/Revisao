@@ -27,4 +27,4 @@ switch ($numero) {
 }
 
 // Sem o break, continua executando o próximo case,
-// msm depois de encontrar o case correspondente.
+// msm depois de encontrar o case correspondente
